@@ -1,6 +1,6 @@
 # AccountingOfArrival
 Схема базы данных с материалами:
-![SchemeDB1](/Материалы.png "Материалы")
+![SchemeDB_Nomenclature](/Номенклатура.png "Номенклатура")
 
 Схема базы данных с приходными накладными:
-![SchemeDB2](/Накладные.png "Приходные накладные")
+![SchemeDB_AccountingOfArrival](/Накладные.png "Приходные накладные")
